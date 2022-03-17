@@ -10,7 +10,8 @@ Work includes using Python, Pandas, and Matplotlb to create a summary DataFrame 
 ### Summary DataFrame
 
 Using the groupby() functions and merging two data sets , the fare per ride and fare per driver averages were calculated resulting in the summary DataFrame by city type. 
- 
+
+https://github.com/Diana7e/PyBer_Analysis/blob/09113c7b7a3eed9bf3da144c1baf27d452ee3ce5/Analysis/Sammary%20data%20frame%20.png
 
 
 1. The Urban city type had more total drivers than total rides, which had a dramatic impact on the average fare per ride and average fare per driver.The Urban drivers had the lowest average fare per ride and earned significantly less than the Rural drivers. 
